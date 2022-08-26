@@ -1,2 +1,3 @@
-# parachains-core-milestones
-Roadmap for the parachains-core team
+# Deprecated
+
+The roadmap will live in the https://github.com/paritytech/polkadot instead.
